@@ -1,0 +1,16 @@
+//=============================
+//===============header==============
+#header {
+    padding: 17px 0;
+    margin-left: 12px;
+    margin-right: 12px;
+    .header-right {
+        display: flex;
+        justify-content: end;
+        align-items: center;
+        &-item {
+            margin: 0 13px;
+            cursor: pointer;
+        }
+    }
+}

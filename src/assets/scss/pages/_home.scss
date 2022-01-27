@@ -1,0 +1,76 @@
+//=============================
+// home
+//=============================
+#home {
+    .home-top {
+        margin-top: 32px;
+        .text {
+            font-weight: 600;
+            font-size: 18px;
+        }
+    }
+    .home-chart-area {
+        margin-top: 25px;
+        .text {
+            margin: 30px;
+            .sub-text {
+                font-weight: 500;
+                font-size: 14px;
+                opacity: 0.5;
+            }
+            .price {
+                .number {
+                    font-weight: bold;
+                    font-size: 24px;
+                }
+                .vnd {
+                    font-weight: 500;
+                    font-size: 14px;
+                    margin-left: 4px;
+                    display: inline-block;
+                }
+            }
+        }
+    }
+    .home-chart-pie {
+        margin-top: 70px;
+        &-piker {
+            margin-left: 30px;
+        }
+        &-content {
+            padding: 0 32px;
+            div {
+                @include dCenter;
+                span {
+                    font-weight: 600;
+                    font-size: 18px;
+                    text-align: center;
+                    margin-bottom: 15px;
+                }
+            }
+        }
+        &-legend {
+            padding-top: 32px;
+            &-content {
+                display: flex;
+                align-items: center;
+                span.color {
+                    width: 44px;
+                    height: 20px;
+                    display: block;
+                    border-radius: 4px;
+                    margin: 8px;
+                }
+                span.color1 {
+                    background: #4f75ff;
+                }
+                span.color2 {
+                    background: #ff8a48;
+                }
+                .text {
+                    font-size: 14px;
+                }
+            }
+        }
+    }
+}

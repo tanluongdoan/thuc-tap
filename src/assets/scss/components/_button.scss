@@ -1,0 +1,73 @@
+/// button filter
+
+.btn-filter {
+    padding: 11px 16px;
+    border: 1px solid $primary1;
+    border-radius: 6px;
+    background-color: $white;
+    cursor: pointer;
+
+    @include dCenter();
+
+    span {
+        @include text1($primary1);
+        margin-left: 12px;
+    }
+}
+.btn-import {
+    display: inline-block;
+    padding: 11px 16px;
+    border: 1px solid $primary1;
+    border-radius: 6px;
+    background-color: $white;
+    cursor: pointer;
+
+    @include text1($primary1);
+    margin-left: 12px;
+}
+.btn-modal {
+    @include text1($primary1);
+
+    padding: 11px 63px;
+    border: 1px solid $primary1;
+    border-radius: 8px;
+    background-color: $white;
+    &:hover {
+        background-color: $primary1;
+        color: $white;
+    }
+}
+.btn-primary {
+    padding: 11px 24px;
+    margin: 0 10px;
+    background: $primary1;
+    border-radius: 8px;
+    outline: none;
+    border: 1px solid rgba(255, 255, 255, 0);
+
+    @include text1($white);
+    &:hover {
+        @include buttonHover;
+    }
+}
+.btn-update {
+    background-color: $white;
+    border: none;
+
+    @include text2;
+    @include dCenter;
+}
+.btn-save {
+    padding: 11px 63px;
+    margin: 0 10px;
+    background: $primary1;
+    border-radius: 8px;
+    outline: none;
+    border: 1px solid rgba(255, 255, 255, 0);
+
+    @include text1($white);
+    &:hover {
+        @include buttonHover;
+    
+    }
+}

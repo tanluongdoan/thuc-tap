@@ -1,0 +1,69 @@
+// ============================
+// menu
+//==========================
+#menu {
+    margin-top: 60px;
+    a {
+        display: flex;
+        align-items: center;
+
+        padding: 15px 26px;
+        margin: 5px 0;
+        border-radius: 8px;
+        svg.icon {
+            fill: $text-color;
+        }
+        span {
+            margin-left: 14px;
+            color: $text-color;
+            opacity: 0.6;
+        }
+        &:hover {
+            svg.icon {
+                fill: $primary;
+            }
+            span {
+                color: $primary;
+            }
+        }
+    }
+    a.active,
+    a.active.disable:hover {
+        background: $primary;
+        svg.icon {
+            fill: $white;
+        }
+        span {
+            color: $white;
+            opacity: 1;
+            font-weight: bold;
+        }
+    }
+    a.disable {
+        cursor: default;
+        &:hover {
+            svg.icon {
+                fill: $text-color;
+            }
+            span {
+                margin-left: 14px;
+                color: $text-color;
+                opacity: 0.6;
+            }
+        }
+    }
+    .menu-item {
+        a {
+            padding: 0px 26px;
+            margin-left: 50px;
+            color: $text-color;
+            opacity: 0.6;
+            &:hover {
+                color: $primary;
+            }
+        }
+        a.item-active {
+            font-weight: bold;
+        }
+    }
+}

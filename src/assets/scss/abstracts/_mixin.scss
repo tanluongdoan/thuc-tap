@@ -1,0 +1,46 @@
+@mixin dCenter() {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+@mixin dBetween() {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+@mixin text1($e) {
+    font-weight: bold;
+    font-size: 18px;
+    color: $e;
+}
+@mixin text2() {
+    font-weight: 500;
+    font-size: 14px;
+    color: $primary1;
+}
+@mixin text3() {
+    font-size: 16px;
+    color: $text-color;
+}
+@mixin text4() {
+    color: $text-color;
+    font-weight: 500;
+    font-size: 14px;
+}
+@mixin text5() {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 1.4;
+    color: $text-color;
+}
+@mixin text6() {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 1.4;
+    color: $text-color;
+}
+@mixin buttonHover() {
+    border: 1px solid $primary1;
+    color: $primary1;
+    background-color: $white;
+}

@@ -1,0 +1,52 @@
+* {
+    outline: none;
+    margin: 0;
+    padding: 0;
+    font-family: $font;
+}
+body {
+    color: #1e0d03;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 1.4;
+}
+//===========================================
+/*================== html css ====================*/
+//============================================
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+    display: block;
+}
+ol,
+ul {
+    list-style: none;
+}
+blockquote,
+q {
+    quotes: none;
+}
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+    content: '';
+    content: none;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+a,
+button {
+    text-decoration: none;
+    cursor: pointer;
+}

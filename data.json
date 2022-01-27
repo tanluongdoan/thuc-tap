@@ -1,0 +1,559 @@
+{
+    "data": {
+        "home": {
+            "chartLine": {
+                "dataDay": [
+                    [
+                        {
+                            "date": "Thứ 2",
+                            "revenue": 150
+                        },
+                        {
+                            "date": "Thứ 3",
+                            "revenue": 180
+                        },
+                        {
+                            "date": "Thứ 4",
+                            "revenue": 170
+                        },
+                        {
+                            "date": "Thứ 5",
+                            "revenue": 230
+                        },
+                        {
+                            "date": "Thứ 6",
+                            "revenue": 190
+                        },
+                        {
+                            "date": "Thứ 7",
+                            "revenue": 240
+                        },
+                        {
+                            "date": "CN",
+                            "revenue": 195
+                        }
+                    ],
+                    [
+                        {
+                            "date": "Thứ 2",
+                            "revenue": 200
+                        },
+                        {
+                            "date": "Thứ 3",
+                            "revenue": 220
+                        },
+                        {
+                            "date": "Thứ 4",
+                            "revenue": 150
+                        },
+                        {
+                            "date": "Thứ 5",
+                            "revenue": 250
+                        },
+                        {
+                            "date": "Thứ 6",
+                            "revenue": 160
+                        },
+                        {
+                            "date": "Thứ 7",
+                            "revenue": 220
+                        },
+                        {
+                            "date": "CN",
+                            "revenue": 260
+                        }
+                    ],
+                    [
+                        {
+                            "date": "Thứ 2",
+                            "revenue": 210
+                        },
+                        {
+                            "date": "Thứ 3",
+                            "revenue": 140
+                        },
+                        {
+                            "date": "Thứ 4",
+                            "revenue": 200
+                        },
+                        {
+                            "date": "Thứ 5",
+                            "revenue": 250
+                        },
+                        {
+                            "date": "Thứ 6",
+                            "revenue": 160
+                        },
+                        {
+                            "date": "Thứ 7",
+                            "revenue": 220
+                        },
+                        {
+                            "date": "CN",
+                            "revenue": 190
+                        }
+                    ]
+                ],
+                "dataWeek": [
+                    [
+                        {
+                            "date": "31/01 - 06/02",
+                            "revenue": 150
+                        },
+                        {
+                            "date": "07/02 - 13/02",
+                            "revenue": 180
+                        },
+                        {
+                            "date": "14/02 - 20/02",
+                            "revenue": 170
+                        },
+                        {
+                            "date": "21/02 - 27/02",
+                            "revenue": 230
+                        },
+                        {
+                            "date": "28/02 - 06/03",
+                            "revenue": 190
+                        },
+                        {
+                            "date": "07/03 - 13/03",
+                            "revenue": 240
+                        },
+                        {
+                            "date": "14/03 - 20/03",
+                            "revenue": 195
+                        }
+                    ],
+                    [
+                        {
+                            "date": "31/01 - 06/02",
+                            "revenue": 150
+                        },
+                        {
+                            "date": "07/02 - 13/02",
+                            "revenue": 220
+                        },
+                        {
+                            "date": "14/02 - 20/02",
+                            "revenue": 250
+                        },
+                        {
+                            "date": "21/02 - 27/02",
+                            "revenue": 170
+                        },
+                        {
+                            "date": "28/02 - 06/03",
+                            "revenue": 190
+                        },
+                        {
+                            "date": "07/03 - 13/03",
+                            "revenue": 210
+                        },
+                        {
+                            "date": "14/03 - 20/03",
+                            "revenue": 195
+                        }
+                    ],
+                    [
+                        {
+                            "date": "31/01 - 06/02",
+                            "revenue": 190
+                        },
+                        {
+                            "date": "07/02 - 13/02",
+                            "revenue": 230
+                        },
+                        {
+                            "date": "14/02 - 20/02",
+                            "revenue": 200
+                        },
+                        {
+                            "date": "21/02 - 27/02",
+                            "revenue": 180
+                        },
+                        {
+                            "date": "28/02 - 06/03",
+                            "revenue": 150
+                        },
+                        {
+                            "date": "07/03 - 13/03",
+                            "revenue": 200
+                        },
+                        {
+                            "date": "14/03 - 20/03",
+                            "revenue": 250
+                        }
+                    ]
+                ]
+            },
+            "chartPie": [
+                {
+                    "family": [
+                        13568,
+                        56024
+                    ],
+                    "event": [
+                        28302,
+                        30256
+                    ]
+                },
+                {
+                    "family": [
+                        12345,
+                        65498
+                    ],
+                    "event": [
+                        14785,
+                        52369
+                    ]
+                },
+                {
+                    "family": [
+                        15963,
+                        35741
+                    ],
+                    "event": [
+                        65478,
+                        85236
+                    ]
+                }
+            ],
+            "danhThu": [
+                "625.125.000",
+                "123.456.000",
+                "892.222.000"
+            ]
+        },
+        "manager": [
+            {
+                "key": 1,
+                "stt": 1,
+                "bookingCode": "ALT20210501",
+                "soVe": "012345678934",
+                "tenSuKien": "Hội chợ triển lãm tiêu dùng 2022",
+                "tinhTrang": "daSuDung",
+                "ngaySuDung": "14/04/2021",
+                "ngayXuatVe": "14/05/2021",
+                "check": "Cổng 1"
+            },
+            {
+                "key": 2,
+                "stt": 2,
+                "bookingCode": "ALT20210501",
+                "soVe": "111111111111",
+                "tenSuKien": "Hội chợ triển lãm tiêu dùng 2021",
+                "tinhTrang": "chuaSuDung",
+                "ngaySuDung": "14/04/2021",
+                "ngayXuatVe": "14/06/2021",
+                "check": "Cổng 2"
+            },
+            {
+                "key": 3,
+                "stt": 3,
+                "bookingCode": "ALT20210501",
+                "soVe": "222222222222",
+                "tenSuKien": "Hội chợ triển lãm tiêu dùng 2020",
+                "tinhTrang": "hetHan",
+                "ngaySuDung": "13/04/2021",
+                "ngayXuatVe": "10/09/2021",
+                "check": "Cổng 3"
+            },
+            {
+                "key": 4,
+                "stt": 4,
+                "bookingCode": "ALT20210501",
+                "soVe": "444444444444",
+                "tenSuKien": "Hội chợ triển lãm tiêu dùng 2029",
+                "tinhTrang": "chuaSuDung",
+                "ngaySuDung": "13/04/2020",
+                "ngayXuatVe": "12/09/2021",
+                "check": "Cổng 4"
+            },
+            {
+                "key": 5,
+                "stt": 5,
+                "bookingCode": "ALT20210501",
+                "soVe": "555555555555",
+                "tenSuKien": "Hội chợ triển lãm tiêu dùng 2000",
+                "tinhTrang": "chuaSuDung",
+                "ngaySuDung": "13/04/2020",
+                "ngayXuatVe": "12/08/2021",
+                "check": "Cổng 5"
+            },
+            {
+                "key": 6,
+                "stt": 6,
+                "bookingCode": "ALT20210501",
+                "soVe": "666666666666",
+                "tenSuKien": "Hội chợ triển lãm tiêu dùng 2001",
+                "tinhTrang": "chuaSuDung",
+                "ngaySuDung": "13/04/2019",
+                "ngayXuatVe": "12/08/2021",
+                "check": "Cổng 5"
+            },
+            {
+                "key": 7,
+                "stt": 7,
+                "bookingCode": "ALT20210501",
+                "soVe": "777777777777",
+                "tenSuKien": "Hội chợ triển lãm tiêu dùng 2002",
+                "tinhTrang": "chuaSuDung",
+                "ngaySuDung": "13/04/2010",
+                "ngayXuatVe": "12/08/2021",
+                "check": "Cổng 1"
+            },
+            {
+                "key": 8,
+                "stt": 8,
+                "bookingCode": "ALT20210501",
+                "soVe": "888888888888",
+                "tenSuKien": "Hội chợ triển lãm tiêu dùng 1999",
+                "tinhTrang": "chuaSuDung",
+                "ngaySuDung": "13/04/2010",
+                "ngayXuatVe": "12/08/2011",
+                "check": "Cổng 2"
+            },
+            {
+                "key": 9,
+                "stt": 9,
+                "bookingCode": "ALT99999999",
+                "soVe": "999999999999",
+                "tenSuKien": "Hội chợ triển lãm tiêu dùng 1998",
+                "tinhTrang": "chuaSuDung",
+                "ngaySuDung": "13/04/2010",
+                "ngayXuatVe": "12/12/2011",
+                "check": "Cổng 2"
+            },
+            {
+                "key": 10,
+                "stt": 10,
+                "bookingCode": "ALT1010101010",
+                "soVe": "101010101010",
+                "tenSuKien": "Hội chợ triển lãm tiêu dùng 1995",
+                "tinhTrang": "chuaSuDung",
+                "ngaySuDung": "13/04/2000",
+                "ngayXuatVe": "12/12/2011",
+                "check": "Cổng 3"
+            },
+            {
+                "key": 11,
+                "stt": 11,
+                "bookingCode": "ALT11111111",
+                "soVe": "111111111111",
+                "tenSuKien": "Hội chợ triển lãm tiêu dùng 1994",
+                "tinhTrang": "daSuDung",
+                "ngaySuDung": "13/04/1995",
+                "ngayXuatVe": "12/02/2011",
+                "check": "Cổng 4"
+            },
+            {
+                "key": 12,
+                "stt": 12,
+                "bookingCode": "ALT12121212",
+                "soVe": "121212121212",
+                "tenSuKien": "Hội chợ triển lãm tiêu dùng 1997",
+                "tinhTrang": "hetHan",
+                "ngaySuDung": "13/04/1995",
+                "ngayXuatVe": "12/06/2005",
+                "check": "Cổng 5"
+            },
+            {
+                "key": 13,
+                "stt": 13,
+                "bookingCode": "ALT13131313",
+                "soVe": "131313131313",
+                "tenSuKien": "Hội chợ triển lãm tiêu dùng 1990",
+                "tinhTrang": "hetHan",
+                "ngaySuDung": "13/04/1995",
+                "ngayXuatVe": "12/12/2008",
+                "check": "Cổng 2"
+            },
+            {
+                "key": 14,
+                "stt": 14,
+                "bookingCode": "ALT1414141414",
+                "soVe": "141414141414",
+                "tenSuKien": "Hội chợ triển lãm tiêu dùng 1980",
+                "tinhTrang": "hetHan",
+                "ngaySuDung": "10/04/1990",
+                "ngayXuatVe": "12/12/2008",
+                "check": "Cổng 3"
+            },
+            {
+                "key": 15,
+                "stt": 15,
+                "bookingCode": "ALT15151515",
+                "soVe": "151515151515",
+                "tenSuKien": "Hội chợ triển lãm tiêu dùng 1981",
+                "tinhTrang": "chuaSuDung",
+                "ngaySuDung": "10/04/1990",
+                "ngayXuatVe": "12/10/2008",
+                "check": "Cổng 5"
+            }
+        ],
+        "check": [
+            {
+                "key": 1,
+                "stt": 1,
+                "soVe": "111111111111",
+                "ngaySuDung": "14/04/2021",
+                "tenVe": "Vé cổng",
+                "check": "Cổng 1",
+                "doiSoat": "Chưa đối soát"
+            },
+            {
+                "key": 2,
+                "stt": 2,
+                "soVe": "222222222222",
+                "ngaySuDung": "14/02/2021",
+                "tenVe": "Vé cổng",
+                "check": "Cổng 2",
+                "doiSoat": "Chưa đối soát"
+            },
+            {
+                "key": 3,
+                "stt": 3,
+                "soVe": "333333333333",
+                "ngaySuDung": "14/03/2021",
+                "tenVe": "Vé cổng",
+                "check": "Cổng 3",
+                "doiSoat": "Chưa đối soát"
+            },
+            {
+                "key": 4,
+                "stt": 4,
+                "soVe": "444444444444",
+                "ngaySuDung": "14/04/2021",
+                "tenVe": "Vé cổng",
+                "check": "Cổng 4",
+                "doiSoat": "Chưa đối soát"
+            },
+            {
+                "key": 5,
+                "stt": 5,
+                "soVe": "555555555555",
+                "ngaySuDung": "14/05/2021",
+                "tenVe": "Vé cổng",
+                "check": "Cổng 5",
+                "doiSoat": "Chưa đối soát"
+            },
+            {
+                "key": 6,
+                "stt": 6,
+                "soVe": "666666666666",
+                "ngaySuDung": "14/06/2021",
+                "tenVe": "Vé cổng",
+                "check": "Cổng 1",
+                "doiSoat": "Chưa đối soát"
+            },
+            {
+                "key": 7,
+                "stt": 7,
+                "soVe": "777777777777",
+                "ngaySuDung": "14/07/2021",
+                "tenVe": "Vé cổng",
+                "check": "Cổng 2",
+                "doiSoat": "Chưa đối soát"
+            },
+            {
+                "key": 8,
+                "stt": 8,
+                "soVe": "888888888888",
+                "ngaySuDung": "14/08/2021",
+                "tenVe": "Vé cổng",
+                "check": "Cổng 2",
+                "doiSoat": "Chưa đối soát"
+            },
+            {
+                "key": 9,
+                "stt": 9,
+                "soVe": "999999999999",
+                "ngaySuDung": "14/09/2021",
+                "tenVe": "Vé cổng",
+                "check": "Cổng 3",
+                "doiSoat": "Chưa đối soát"
+            },
+            {
+                "key": 10,
+                "stt": 10,
+                "soVe": "101010101010",
+                "ngaySuDung": "14/12/2021",
+                "tenVe": "Vé cổng",
+                "check": "Cổng 3",
+                "doiSoat": "Chưa đối soát"
+            },
+            {
+                "key": 11,
+                "stt": 11,
+                "soVe": "111111111111",
+                "ngaySuDung": "14/11/2021",
+                "tenVe": "Vé cổng",
+                "check": "Cổng 3",
+                "doiSoat": "Chưa đối soát"
+            },
+            {
+                "key": 12,
+                "stt": 12,
+                "soVe": "121212121212",
+                "ngaySuDung": "14/12/2021",
+                "tenVe": "Vé cổng",
+                "check": "Cổng 1",
+                "doiSoat": "Chưa đối soát"
+            },
+            {
+                "key": 13,
+                "stt": 13,
+                "soVe": "131313131313",
+                "ngaySuDung": "14/01/2022",
+                "tenVe": "Vé cổng",
+                "check": "Cổng 1",
+                "doiSoat": "Chưa đối soát"
+            },
+            {
+                "key": 14,
+                "stt": 14,
+                "soVe": "141414141414",
+                "ngaySuDung": "14/02/2022",
+                "tenVe": "Vé cổng",
+                "check": "Cổng 1",
+                "doiSoat": "Chưa đối soát"
+            },
+            {
+                "key": 15,
+                "stt": 15,
+                "soVe": "151515151515",
+                "ngaySuDung": "14/05/2022",
+                "tenVe": "Vé cổng",
+                "check": "Cổng 1",
+                "doiSoat": "Chưa đối soát"
+            }
+        ],
+        "setting": [
+            {
+                "key": 1,
+                "stt": 1,
+                "maGoi": "ALT11111111",
+                "tenGoiVe": "Gói gia đình",
+                "ngayApDung": "14/04/2021-08:00:00",
+                "ngayHetHan": "14/05/2021-09:00:00",
+                "giaVe": "90.000 VNĐ",
+                "giaCombo": "360.000 VNĐ/4 Vé",
+                "tinhTrang": "chuaSuDung",
+                "update": 1
+            },
+            {
+                "key": 2,
+                "stt": 2,
+                "maGoi": "ALT22222222",
+                "tenGoiVe": "Gói sự kiện",
+                "ngayApDung": "14/04/2020-05:00:00",
+                "ngayHetHan": "14/08/2021-09:00:00",
+                "giaVe": "20.000 VNĐ",
+                "giaCombo": " ",
+                "tinhTrang": "hetHan",
+                "update": 2
+            }
+        ]
+    }
+}
